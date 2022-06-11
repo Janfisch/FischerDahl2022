@@ -2,7 +2,7 @@ Supplemental material for Fischer and Dahl (2022)
 - .gif animations
 - list of tornado cases used
 - CM1 namelist files for the two sets of idealized simulations are included 
----> idealized 1: The relevant changes to the original CM1 code were done using 2 new namelist parameters heat and icurl to add the heat source and the vortex patch. The necessary code can be obtained from Fischer and Dahl (2020) and Fischer and Dahl (2022) supplemental material. 
+---> idealized 1: The relevant changes to the original CM1 code were done using 2 new namelist parameters (iheat and icurl) to add the heat source and the vortex patch. The connected code is in solve.F and can be obtained from Fischer and Dahl (2020) and Fischer and Dahl (2022) supplemental material. 
 ---> idealized 2: Same using iheat (Fischer and Dahl 2020) 
 
 questions are welcome: jannick.fischer@ttu.edu
